@@ -3,8 +3,8 @@ Gem::Specification.new do |spec|
   spec.version       = "0.0.1"
   spec.authors       = ["Daniel Yoon"]
   spec.email         = ["robotright@gmail.com"]
-  spec.description   = %q{Display octocat ascii art}
-  spec.summary       = %q{Display octocat ascii art}
+  spec.description   = %q{Display ascii octocat}
+  spec.summary       = %q{Display ascii octocat}
   spec.homepage      = "https://github.com/daniely/lita-octocat"
   spec.license       = "MIT"
   spec.metadata      = { "lita_plugin_type" => "handler" }

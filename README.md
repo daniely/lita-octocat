@@ -1,6 +1,6 @@
 # lita-octocat
 
-Display octocat ascii art
+Display ascii octocat
 
 ## Installation
 
