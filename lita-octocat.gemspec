@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name          = "lita-octocat"
-  spec.version       = "0.0.1"
+  spec.version       = "0.0.2"
   spec.authors       = ["Daniel Yoon"]
   spec.email         = ["robotright@gmail.com"]
   spec.description   = %q{Display ascii octocat saying random things.}
