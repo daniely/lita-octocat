@@ -14,6 +14,7 @@ gem "lita-octocat"
 
 ```
 Lita: octocat me
+```
 
                MMM.           .MMM
                MMMMMMMMMMMMMMMMMMM
@@ -36,7 +37,6 @@ Lita: octocat me
             ~~~~~~==~==~~~==~==~~~~~~
              ~~~~~~==~==~==~==~~~~~~
                  :~==~==~==~==~~
-```
 
 ## License
 
