@@ -1,6 +1,6 @@
 # lita-octocat
 
-Display ascii octocat
+Display ascii octocat saying random things.
 
 ## Installation
 
