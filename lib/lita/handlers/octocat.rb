@@ -11,7 +11,7 @@ module Lita
         http_resp = http.get(URL)
 
         if http_resp.status == 200
-          response.reply http_resp.body
+          response.reply(render_template("monospaced", octocat: http_resp.body))
         else
           Lita.logger.warn("Github octocat api could not be reached.")
         end
