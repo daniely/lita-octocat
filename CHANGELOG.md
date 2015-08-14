@@ -4,7 +4,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 We follow [Keep a Changelog](http://keepachangelog.com/) format.
 
-## 0.1.0 - 2015-06-21
+## 0.1.0 - 2015-08-14
 ### Added
 - Using Semantic versioning
 
