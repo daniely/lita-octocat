@@ -1,7 +1,7 @@
 require "spec_helper"
 
 describe Lita::Handlers::Octocat, lita_handler: true do
-  it { routes_command("octocat me").to(:octocat) }
+  it { is_expected.to route_command("octocat me").to(:octocat) }
 
   describe '#octocat' do
     let(:response) { double("Faraday::Response") }
